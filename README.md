@@ -1,5 +1,6 @@
 # cafe-advisor
 
+```
 concerns
 [ ] what cafes are in my city?
 [ ] what are their hours and busy times?
@@ -12,3 +13,4 @@ operations
 [ ] search for a cafe
 [ ] view cafe details
 [ ] map cafe locations
+```
